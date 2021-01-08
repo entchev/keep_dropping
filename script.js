@@ -107,4 +107,4 @@ var blocks = setInterval(function () {
   } else {
     character.style.top = characterTop - 0.5 + 'px'
   }
-}, 0.5)
+}, 2)
